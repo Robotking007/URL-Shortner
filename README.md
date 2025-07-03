@@ -32,5 +32,5 @@ A Flask-based URL shortening service similar to Bit.ly, featuring a professional
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/url-shortener.git
+   git clone https://github.com/Robotking007/URL-Shortner
    cd url-shortener
